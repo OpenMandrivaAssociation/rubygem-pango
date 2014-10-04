@@ -13,6 +13,8 @@ Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildRequires:  rubygem(glib2)
 BuildRequires:  rubygem-glib2-devel
+BuildRequires:	rubygem(cairo)
+BuildRequires:	rubygem-cairo-devel
 BuildRequires:  ruby-devel
 BuildRequires:  pkgconfig(pango)
 BuildRequires:  pkgconfig(pangocairo)
