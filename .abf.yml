@@ -1,4 +1,5 @@
 removed_sources:
   pango-2.2.0.gem: 9b20760688d6562edcda26d28c1e40f9cec5b074
-sources:
   pango-2.2.4.gem: a23e04eebad0aeeafedd078f9f33d6ae31b84a27
+sources:
+  pango-3.0.7.gem: 8d7f3049f703dd2e1b32c2694688b1b296380da1

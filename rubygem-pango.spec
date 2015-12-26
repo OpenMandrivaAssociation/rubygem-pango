@@ -1,10 +1,10 @@
 # Generated from pkg-config-1.1.4.gem by gem2rpm5 -*- rpm-spec -*-          
 %define	rbname	pango
 
-Summary:	Ruby binding of ATK-1.0.x
+Summary:	Ruby binding of Pango
 Name:		rubygem-%{rbname}
 
-Version:	2.2.4
+Version:	3.0.7
 Release:	1
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
@@ -21,7 +21,7 @@ BuildRequires:  pkgconfig(pangocairo)
 Obsoletes:      ruby-pango
 
 %description
-Ruby binding of ATK-1.0.x.
+Ruby binding of Pango
 
 %package	doc
 Summary:	Documentation for %{name}
