@@ -8,7 +8,7 @@ Version:	3.0.7
 Release:	2
 Group:		Development/Ruby
 License:	GPLv2+ or Ruby
-URL:		http://ruby-gnome2.sourceforge.jp/
+URL:		https://ruby-gnome2.sourceforge.jp/
 Source0:	http://rubygems.org/gems/%{rbname}-%{version}.gem
 BuildRequires:	rubygems 
 BuildRequires:  rubygem(glib2)
